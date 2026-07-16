@@ -63,12 +63,12 @@ Power BI Dashboard
 
 ## BigQuery 資料架構
 
-online_retail        → 原始資料
-orders_clean         → 清洗後資料（含年月、年季欄位）
-rfm_base             → RFM 計算結果
-kmeans_rfm           → K-Means 模型
-rfm_segments         → 分群結果（含語意化名稱）
-quarterly_summary    → 季度彙總（含年增率）
+online_retail        → 原始資料  
+orders_clean         → 清洗後資料（含年月、年季欄位）  
+rfm_base             → RFM 計算結果  
+kmeans_rfm           → K-Means 模型  
+rfm_segments         → 分群結果（含語意化名稱）  
+quarterly_summary    → 季度彙總（含年增率）  
 
 ---
 
